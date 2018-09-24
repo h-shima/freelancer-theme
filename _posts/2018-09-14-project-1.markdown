@@ -1,0 +1,11 @@
+---
+layout: default
+modal-id: 7
+date: 2018-09-14
+img: myrecipes.png
+alt: image-alt
+project-date: September 2018
+category: Ruby on Rails
+description: ユーザー同士でレシピを共有できるサービスを作成しました。多対多のテーブル構造やActionCableの使用に挑戦しました。
+
+---
