@@ -4,7 +4,7 @@ email: geet1876@gmail.com
 url: https://h-shima.github.io
 description: "Hiroki Oshimaのポートフォリオサイトです"
 keywords: "your keywords, separated by commas"
-skills: "Backend Engineer"
+skills: "Web Engineer"
 meta_author: Oshima Hiroki
 encoding: utf-8
 
@@ -36,16 +36,11 @@ footer:
   copyright: Dr. Henry Jekyll
   location: Location
   social: Around the Web
-  credits: Credits
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter
     url: https://twitter.com/hiro_089k
-  - title: facebook
-    url:
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
   - title: bitbucket
     url: https://bitbucket.org/hirokioshima/
   - title: github
@@ -56,9 +51,6 @@ social:
 # Postal address (add as many lines as necessary)
 address:
   - line: Machida, Tokyo
-
-# Credits content
-credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
 
 # Build settings
 markdown: kramdown
