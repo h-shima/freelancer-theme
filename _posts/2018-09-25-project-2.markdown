@@ -6,6 +6,6 @@ img: solidus.png
 alt: image-alt
 project-date: September 2018
 language: Ruby on Rails
-description: オープンソースECパッケージ[Solidus](https://github.com/solidusio/solidus)を使ったECサイトを作成しました。RspecでEtoEテストを行うなど、現場で活用するであろう技術を積極的に試しました。
+description: オープンソースECパッケージ<a href="https://github.com/solidusio/solidus">solidus</a>を使ったECサイトを作成しました。RspecでEtoEテストを行うなど、現場で活用するであろう技術を積極的に試しました。
 
 ---
