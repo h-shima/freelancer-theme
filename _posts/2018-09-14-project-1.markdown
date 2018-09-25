@@ -6,6 +6,7 @@ img: myrecipes.png
 alt: image-alt
 project-date: September 2018
 language: Ruby on Rails
+code: https://github.com/h-shima/myrecipes
 description: ユーザー同士でレシピを共有できるサービスを作成しました。多対多のテーブル構造やActionCableの使用に挑戦しました。<a href="https://hiroki-myrecipes.herokuapp.com/" target="_blank">サイトはこちら</a>
 
 ---

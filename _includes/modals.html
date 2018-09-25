@@ -29,6 +29,11 @@
                                         <strong>{{ post.language }}</strong>
                                     </li>
                                 {% endif %}
+                                {% if post.code %}
+                                    <li>Source Code:
+                                        <strong>{{ post.code }}</strong>
+                                    </li>
+                                {% endif %}
                             </ul>
                             <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
                         </div>
