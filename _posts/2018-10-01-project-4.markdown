@@ -1,0 +1,12 @@
+---
+layout: default
+modal-id: 9
+date: 2018-10-01
+img: weather.png
+alt: image-alt
+project-date: October 2018
+language: React
+code: https://github.com/h-shima/weather-app
+description: 現場に入った後、速やかにReactのキャッチアップができるように書籍やwebで学習しており、スクショは参考書籍に載っていたアプリを作成しローカルサーバーで動かした時のものです。まだまだ理解しているとは言い難いレベルですが、他にもいくつかReactアプリをgithubに上げておりますので、宜しければご覧ください。
+
+---
