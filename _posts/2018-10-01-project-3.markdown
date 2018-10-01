@@ -1,0 +1,12 @@
+---
+layout: default
+modal-id: 7
+date: 2018-10-01
+img: filecabinet.png
+alt: image-alt
+project-date: October 2018
+language: Ruby on Rails, Haml
+code: https://github.com/h-shima/cabinet-app
+description: メモ帳アプリを作成しました。ユーザー認証にはDeviseを使い、学習のためにerbではなくhamlを使いました。<a href="https://hiroki-filecabinet-app.herokuapp.com/" target="_blank">サイトはこちら</a>
+
+---
