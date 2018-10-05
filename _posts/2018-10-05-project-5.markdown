@@ -1,0 +1,12 @@
+---
+layout: default
+modal-id: 10
+date: 2018-10-05
+img: todolist.png
+alt: image-alt
+project-date: October 2018
+language: Ruby on Rails
+code: https://github.com/h-shima/todolist-app
+description: Todoを管理するためのアプリを作成しました。Todoモデルのみで開発をはじめ他のですが、途中からUserモデルを追加し１対多のテーブル構造を持つアプリにしました。<a href="https://hiroki-todolist.herokuapp.com/" target="_blank">サイトはこちら</a>
+
+---
