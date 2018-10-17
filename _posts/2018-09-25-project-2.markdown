@@ -7,6 +7,6 @@ alt: image-alt
 project-date: September 2018
 language: Ruby on Rails
 code: https://bitbucket.org/hirokioshima/potepanec/src/master/
-description: オープンソースECパッケージ<a href="https://github.com/solidusio/solidus">solidus</a>を使ったECサイトを作成しました。RspecでEtoEテストを行うなど、現場で活用するであろう技術を積極的に試しました。
+description: オープンソースECパッケージ<a href="https://github.com/solidusio/solidus">solidus</a>を使ったECサイトを作成しました。RSpecでEtoEテストを行うなど、現場で活用するであろう技術を積極的に試しました。是非下記のSource Codeリンクから開発の様子をご覧ください。
 
 ---
